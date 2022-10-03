@@ -3,6 +3,6 @@ This GitHub repository contains the Python source code that implements a novel t
 
 ![snapshot](https://user-images.githubusercontent.com/31885753/193543099-fc2f8974-db07-4343-a239-26249ba23cf0.png)
 
-To run the python script, you need to open a command-line and type the following:
+To run the task-allocation strategy, you need to install Python's version 3. Once it has been installed, open a command-line and type the following:
 
-python3 
+python3 MultiRobotsOptimization_Methods.py
